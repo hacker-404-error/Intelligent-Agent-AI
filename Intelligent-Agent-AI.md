@@ -175,7 +175,7 @@ In this game, if an interrogator would not be able to identify which is a machin
 ### Previous Topics : 
 - [Artificial Intelligence.]()
 ### Next Topics : 
-- [Search Algorithms in AI]()
+- [Search Algorithms in AI.]()
 
 ### Created By:
 <a href = "https://github.com/hacker-404-error">Pritam Das</a>
