@@ -1,11 +1,6 @@
 # Agents in Artificial Intelligence
 An AI system can be defined as the study of the `rational agent` and its `environment`. The agents sense the environment through `sensors` and act on their environment through `actuators`. An AI agent can have mental properties such as knowledge, belief, intention, etc.
 
-- `Human-Agent`: A human agent has eyes, ears, and other organs which work for sensors and hand, legs, vocal tract work for actuators.
-
-- `Robotic Agent`: A robotic agent can have cameras, infrared range finder, NLP for sensors and various motors for actuators.
-
-- `Software Agent`: Software agent can have keystrokes, file contents as sensory input and act on those inputs and display output on the screen.
 
 ####  ***the world around us is full of agents such as thermostat, cellphone, camera, and even we are also agents***
 
@@ -54,7 +49,7 @@ PEAS is a type of model on which an AI agent works upon. When we define an AI ag
 
 ## Types of AI Agents
 Agents can be grouped into five classes based on their degree of perceived intelligence and capability.
-- [Simple Reflex Agent](https://www.geeksforgeeks.org/agents-artificial-intelligence/)
+- [Simple reflex agent](https://www.geeksforgeeks.org/agents-artificial-intelligence/)
 - [Model-based reflex agent](https://www.geeksforgeeks.org/agents-artificial-intelligence/)
 - [Goal-based agents](https://www.geeksforgeeks.org/agents-artificial-intelligence/)
 - [Utility-based agent](https://www.geeksforgeeks.org/agents-artificial-intelligence/)
